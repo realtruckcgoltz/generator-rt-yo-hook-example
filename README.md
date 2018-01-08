@@ -3,7 +3,7 @@
 
 ## Installation
 
-First, install [Yeoman](http://yeoman.io) and generator-rt-yo-hook-example using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
+First, install [Yeoman](http://yeoman.io) and generator-rt-yo-hook-example using [yarn](https://yarnpkg.com) (we assume you have pre-installed [node.js](https://nodejs.org/)).
 
 ```bash
 yarn global add yo
