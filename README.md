@@ -7,7 +7,7 @@ First, install [Yeoman](http://yeoman.io) and generator-rt-yo-hook-example using
 
 ```bash
 yarn global add yo
-git clone git@github.com:realtruckcgoltz/generator-rt-yo-hook-example.git
+git clone https://github.com/realtruckcgoltz/generator-rt-yo-hook-example.git
 cd generator-rt-yo-hook-example
 yarn link
 ```
