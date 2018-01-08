@@ -6,14 +6,26 @@
 First, install [Yeoman](http://yeoman.io) and generator-rt-yo-hook-example using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
 
 ```bash
-npm install -g yo
-npm install -g generator-rt-yo-hook-example
+yarn global add yo
+git clone git@github.com:realtruckcgoltz/generator-rt-yo-hook-example.git
+cd generator-rt-yo-hook-example
+yarn link
 ```
 
 Then generate your new project:
 
 ```bash
+mkdir /my/new/project/path
+cd /my/new/project/path
 yo rt-yo-hook-example
+```
+
+To demonstrate git hooks:
+
+```bash
+git init
+git add -A
+git commit -m "Testing da hook"
 ```
 
 ## Getting To Know Yeoman
