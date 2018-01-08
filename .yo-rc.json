@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Chris Goltz",
+      "authorEmail": "cgoltz@realtruck.com",
+      "authorUrl": ""
+    }
+  }
+}
